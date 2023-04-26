@@ -94,7 +94,6 @@
   <ItemGroup>
     <Compile Include="Helpers\AssertHelper.cs" />
     <Compile Include="Helpers\CommonAPI.cs" />
-    <Compile Include="Helpers\CreateUser.cs" />
     <Compile Include="Tests\Covid19_Tests.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Tests\ReqResTest.cs" />
